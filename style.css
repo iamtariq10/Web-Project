@@ -1,0 +1,201 @@
+.navbar{
+    background-color:    	 	#1E90FF !important;
+    
+}
+.nav-link,.navbar-brand {
+    color: rgb(255, 255, 255) !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    
+  
+}
+
+.nav-link:hover{
+    color: #1E90FF !important;
+    background-color:  white !important;
+    border-radius: 5px;
+    
+   
+}
+.dropdown-item:hover{
+    background-color: #1E90FF !important;
+    color: white;
+    border-radius: 2px;
+}
+
+    
+.btn{
+    color: white !important;
+
+}
+.btn:hover{
+    color: #1E90FF !important;
+    background-color:white !important;
+  
+}
+.nav-link:active{
+    color: #1E90FF !important;
+    background-color:  white !important;
+
+}
+.icons{
+    margin: 10px;
+    padding: 00px;
+}
+
+.maincard{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    
+   
+   
+    
+}
+.card1,.card2,.card3,.card4{
+    width: 250px;
+    height: auto;
+    background-color: white;
+    box-shadow: 2px 2px 3px 4px #1E90FF  ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-shadow: 2px 2px 2px #1E90FF  ;
+    flex-wrap: wrap;
+    color: #ffffff;
+    padding: 10px;
+    display: flex;
+    margin: 3px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+    
+    
+    
+    
+    
+    
+}
+.img1{
+    margin:22px 15px;
+    
+}
+
+
+
+.imgL{
+    margin-top: 50px;
+}
+h3{
+    background-color: #1E90FF  ;
+    padding: 5px;
+    box-shadow: 3px 3px 5px grey;
+}
+
+.heading1{
+    text-align: center;
+    text-shadow: 2px 2px 3px #1E90FF  ;
+    width: 50%;
+    margin: auto;
+    
+}
+h1{
+    font-size: 50px;
+    background-color: #1E90FF ;
+    border-radius: 200px;
+    margin: auto;
+    color: white;
+    margin-top: 50px;
+
+    
+}
+.container{
+    margin-top: 70px;
+    display: flex;
+}
+footer{
+    background-color: #1E90FF;
+    width: 100%;
+    height: 80px;
+    margin-top: 200px;
+    display: flex;
+
+   
+}
+
+.copy{
+    padding: 0px;
+    display: flex;
+    margin-right: 5px;
+   
+    
+}
+h6{
+   margin-top: 4px ;
+   margin-left: 15px;
+   
+}
+
+
+@media screen and (max-width:600px)
+{
+  .card,.container  {
+      width: 88%;
+      height: auto;
+      margin-top:30px;
+
+    }
+}
+
+
+.card-body:hover{
+    color: #1E90FF ;
+}
+
+.btn-primary{
+    background-color: white !important;
+    color: #1E90FF  !important;
+
+}
+
+.btn-primary:hover{
+    background-color: #1E90FF !important;
+    color: #ffffff !important;
+
+}
+
+@media screen and (max-width:500px){
+    .card1,.card2,.card3,.card4{
+        width: 90%;
+    }
+}
+
+
+.about{
+    text
+}
+.map{
+    margin-top: 60px;
+}
+.paragraph{
+    line-height: 25px;
+    width: 100%;
+    padding: 5px;
+
+}
+h4{
+    
+    padding: 5px;
+}
+.imgc{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.copyright{
+    margin-top: 40px;
+}

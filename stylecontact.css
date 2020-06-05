@@ -1,0 +1,27 @@
+.container{
+    justify-content: center;
+    background-color: #1E90FF;
+    height: auto;
+    border-radius: 20px;
+    width: 65%;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+    box-shadow: 5px;
+    font-size: 19px;
+    background-image:url("grocery/contact.jpg")  ;
+ 
+     
+}
+
+form{
+    margin-top: 15px;
+    height: auto;
+    margin-bottom: 15px;
+    
+    
+}
+
+.ima{
+    
+}
